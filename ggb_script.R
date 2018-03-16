@@ -68,4 +68,4 @@ S <- cov(x)
 fit_global <- ggb(S, g, type = "global", nlam = 10)
 fit_local <- ggb(S, g, type = "local", nlam = 10)
 
-
+#20180316-2
